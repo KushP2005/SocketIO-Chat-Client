@@ -1,7 +1,7 @@
-##💬 Real-Time Chat Application
+## 💬 Real-Time Chat Application
 A simple real-time chat application built with Node.js, Express, and Socket.IO. This project allows multiple users to join a web-based chat room, choose a unique username, and send public messages to all connected users.
 
-#🚀 Features
+# 🚀 Features
 Real-time bi-directional communication using WebSockets
 
 User registration with unique username validation
@@ -12,7 +12,7 @@ Keyboard and button interaction to send messages
 
 Simple, extensible frontend (HTML/CSS/JS)
 
-#🛠️ Installation & Running the Server
+# 🛠️ Installation & Running the Server
 Clone the repository:
 
 git clone https://github.com/KushP2005/SocketIO-Chat-Client.git
@@ -29,16 +29,16 @@ You can also specify a port:
 
 node server.js 4000
 
-#🔐 Username Rules
+# 🔐 Username Rules
 Usernames must be unique per session.
 
 The username Me (case-insensitive) is reserved and cannot be used.
 
-#📦 Dependencies
+# 📦 Dependencies
 Express
 
 Socket.IO
 
-#📄 License
+# 📄 License
 MIT License © 2025
 Created by Kush using a base from Louis D. Nel
